@@ -106,6 +106,6 @@ npm run dev
    npm run dev
    ```
 🌐 Live Demo
-Frontend is live here: [Chat App](chat-app-pink-sigma-34.vercel.app) (Login Page)
+Frontend is live here: [Chat App](https://chat-app-pink-sigma-34.vercel.app/login) (Login Page)
 
 
